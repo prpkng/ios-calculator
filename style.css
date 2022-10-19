@@ -12,6 +12,9 @@ body {
     background-color: #090909;
     border-radius: 2em;
     padding: 1em;
+    position: absolute;
+    left: 0;
+    right: 0;
     margin: auto;
 }
 
