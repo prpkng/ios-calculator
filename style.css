@@ -2,7 +2,6 @@
 
 body {
 	background: #161616;
-	margin: auto;
 }
 
 #calc_bg {
@@ -13,6 +12,7 @@ body {
     background-color: #090909;
     border-radius: 2em;
     padding: 1em;
+    margin: auto;
 }
 
 .results {
